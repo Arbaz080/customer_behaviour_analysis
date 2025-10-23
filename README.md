@@ -165,8 +165,8 @@ customer-behavior-analysis/
 ## 👤 Author
 
 **Arbaz Khan**  
-- LinkedIn: [your-profile](https://www.linkedin.com/in/arbaz-khan-8b114621a/)
-- GitHub: [your-username](https://github.com/Arbaz080)
+- LinkedIn: [Arbaz](https://www.linkedin.com/in/arbaz-khan-8b114621a/)
+- GitHub: [Arbaz](https://github.com/Arbaz080)
 - Email: arbazkhan0804@gmail.com
 
 ## 📝 License
